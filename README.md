@@ -24,6 +24,7 @@ Many individuals find it a hassle to order food online after a long day at work.
 A user-friendly interface for customers to record their details and information regarding their food order. Customers can input their personal details, such as their name, contact information, and address, as well as details about the food they wish to order, such as the number of items, customizations, and special requests. All the information provided by the customer is stored on Firebase, a cloud-based database that allows for easy and secure storage and retrieval of information.
 
 **Checkout**
+
 GrubHub's checkout feature allows customers to review and finalize their order before it is sent to the restaurant's kitchen for processing. 
 
 ## Technologies
