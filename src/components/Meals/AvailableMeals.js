@@ -12,7 +12,7 @@ const AvailableMeals = () => {
   useEffect(() => {
     const fetchMeals = async () => {
       const response = await fetch(
-        'https://grubhub-7614e-default-rtdb.asia-southeast1.firebasedatabase.app/mals.json'
+        'https://grubhub-7614e-default-rtdb.asia-southeast1.firebasedatabase.app/meals.json'
       );
 
       if (!response.ok) {
