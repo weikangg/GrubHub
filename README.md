@@ -1,21 +1,21 @@
 # GrubHub
 
-## Description
-
-GrubHub is a React web application that provides a simple and user-friendly interface for users to make orders and add items to their cart. This app is designed to cater to the needs of individuals who want to place food orders quickly and conveniently. The app utilizes a database (Firebase) to store all the orders placed by the users, and this allows for seamless processing of the orders. With its intuitive design, efficient processing of orders, and customizable features, GrubHub offers a unique and hassle-free way to order food online.<br/>
-
-<br>Website link: https://storeit.onrender.com/</br>
-
 ## Table of contents
 
+- [General Information](#general-information)
+- [User Stories](#user-stories)
 - [Key features](#key-features)
 - [Technologies](#technologies)
 
 ## General Information
 
+GrubHub is a React web application that provides a simple and user-friendly interface for users to make orders and add items to their cart. This app is designed to cater to the needs of individuals who want to place food orders quickly and conveniently. The app utilizes a database (Firebase) to store all the orders placed by the users, and this allows for seamless processing of the orders. With its intuitive design, efficient processing of orders, and customizable features, GrubHub offers a unique and hassle-free way to order food online.<br/>
+
+<br>Website link: https://storeit.onrender.com/</br>
+
 ## User Stories
 
-Many students, especially foreign students, feels that its a hassle to move tons of items back to their home country at the end of every semester just to move it back home. As such, StoreIT helps them to store their items in school at a fee, providing greater convenience and ease as they travel back home, returning their items on time.
+Many individuals find it a hassle to order food online after a long day at work. Delivery is also often expensive with small order fees. As such, GrubHub helps to  provide greater convenience and ease as they are able to order food easily and cheaply with just a few clicks.
 
 ## Key features
 
