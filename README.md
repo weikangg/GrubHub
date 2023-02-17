@@ -11,7 +11,7 @@
 
 GrubHub is a React web application that provides a simple and user-friendly interface for users to make orders and add items to their cart. This app is designed to cater to the needs of individuals who want to place food orders quickly and conveniently. The app utilizes a database (Firebase) to store all the orders placed by the users, and this allows for seamless processing of the orders. With its intuitive design, efficient processing of orders, and customizable features, GrubHub offers a unique and hassle-free way to order food online.<br/>
 
-<br>Website link: https://storeit.onrender.com/</br>
+<br>Website link: https://grubhub.vercel.app/</br>
 
 ## User Stories
 
